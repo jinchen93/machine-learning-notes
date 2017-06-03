@@ -25,7 +25,9 @@ For example our inputs are 2 dimensional inputs that come in like this:
 
 [5, 3]
 [5, 1]
-[9, 2]
+[10, 2]
 
 If we take [5, 3] through a cycle, we would have 2 input nodes.
 If we have 3 neurons in our hidden layer, each neuron would have to sum up the result coming from the synapses like so:
+
+<img src="https://raw.githubusercontent.com/jinchen93/machine-learning-notes/master/diagrams/synapse-results.png" alt="Synapse result diagram" />

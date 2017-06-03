@@ -20,3 +20,12 @@ This is not required but normalizing the data will make the learning process fas
 
 Instead of passing inputs in **1 by 1**, we pass the inputs in as **matrices** so that we can pass in **multiple inputs at once**.
   - This speeds up the computation time tremendously.
+
+For example our inputs are 2 dimensional inputs that come in like this:
+
+[5, 3]
+[5, 1]
+[9, 2]
+
+If we take [5, 3] through a cycle, we would have 2 input nodes.
+If we have 3 neurons in our hidden layer, each neuron would have to sum up the result coming from the synapses like so:

@@ -46,4 +46,5 @@ This representation is commonly broken down into
 
 Once we have Z(2), we need to apply the activation function to all of the entries in Z(2)
 
-<img src="" alt="Diagram of activation functions being applied" />
+<img src="https://raw.githubusercontent.com/jinchen93/machine-learning-notes/master/diagrams/applying-activation-function.png" alt="Diagram of activation functions being applied" />
+

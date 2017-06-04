@@ -11,7 +11,7 @@ These are recognizable for humans, but these inputs are hard for computers to de
 
 The values are all in different places. So the CNN breaks up the images and matches small patterns instead.
 
-<img src="" alt="Pattern matching" width="500" />
+<img src="https://raw.githubusercontent.com/jinchen93/machine-learning-notes/master/diagrams/pattern-matching.png" alt="Pattern matching" width="500" />
 
 ### Filtering
 
@@ -24,4 +24,4 @@ The filter moves around all over the image to see how well that feature is repre
 
 Convolution is the repeated matching of the filter for all possibilities.
 
-<img src="" alt="Convolution example" width="500" />
+<img src="https://raw.githubusercontent.com/jinchen93/machine-learning-notes/master/diagrams/convolution.png" alt="Convolution example" width="500" />

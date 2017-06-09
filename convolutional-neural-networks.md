@@ -18,7 +18,7 @@ The values are all in different places. So the CNN breaks up the images and matc
 Filtering is when the CNN matches a known pattern to the input patterns.
 Each slice is matched against the known pattern and is multiplied by each other.
 
-<img src="" alt="Filtering example" width="500" />
+<img src="https://raw.githubusercontent.com/jinchen93/machine-learning-notes/master/diagrams/filtering.png" alt="Filtering example" width="500" />
 
 The filter moves around all over the image to see how well that feature is represented.
 
